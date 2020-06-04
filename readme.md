@@ -8,9 +8,9 @@
 
 Each box data is read from a file called: Pattern.txt
 Row format: 
-#### <box_type> <box_orientation> <pos_x> <pos_y> <pos_y> <dist> <level>
+#### box_type, box_orientation, pos_x, pos_y, pos_y, dist, level
 	
-##### box_type 1 or 2 - the box type
+##### box_type - 1 or 2, the box type
 ##### box_orientation - 0 or 90 degrees
 ##### pos_x, pos_y, pos_z - position relative to the upper left corner of the pallet
 ##### dist - dist to the upper left corner of the pallet
